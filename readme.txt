@@ -1,0 +1,1 @@
+Encrypt a file with gpg and scp to remote host.
